@@ -1,0 +1,110 @@
+#charts_wrapper
+{
+  padding: 1em 0 0 0;;
+  margin: 0;
+}
+#map-holder {
+  width: 100%;
+  min-height: 25em;/*550px;*/
+}
+.charts
+{
+  width: 100%;
+}
+      
+svg rect {
+  fill: #2A2C39;   /* map background colour */
+}
+.country{
+  fill: #d0d0d0;   /* country colour */
+  stroke: #2A2C39; /* country border colour */
+  stroke-width: 1; /* country border width */
+}
+.country-on{
+  fill: #30BCED;  
+  font-size: 15px; /* highlight colour for selected country */
+}
+.countryLabel{
+  display: none;   /* hide all country labels by default */
+}
+.countryName{
+  fill: #FFFAFF;   /* country label text colour */
+}
+.countryLabelBg{
+  fill: #30BCED;   /* country label background colour */
+}
+.svg_pie_lbls
+{
+  fill: white;
+  font-size: 10px;
+}
+/* legend */
+.legend 
+{
+  font-size: 15px;
+  fill: black;
+}
+.pie_lbl, .pie
+{
+  float: left;
+}
+.pie_lbl
+{
+  width: 30%;
+}
+.lbl
+{
+  width: 100%;
+  height: 50%;
+}
+.text_lbl
+{
+  font-size: 30px;
+  color: #fff;
+}
+#dashboard
+{
+  width: 100%;
+  min-height: 450px;
+  max-height: 700px;
+}
+.btn_cont, .cont
+{
+  width: 33%;
+  float: left;
+  text-align: center;
+}
+#boats img, #battery img
+{
+  width: 10%;
+  height: 10%;
+}
+#person img
+{
+  width: 5%;
+  height: 5%;
+}
+.image.map_vis
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+.hidden
+{
+  display: none !important;
+}
+.bg_map
+{
+  background-color:#d0d0d0;
+}
+#achievements table tr td
+{
+  width: 50%;
+  vertical-align: middle;
+}
+tr:nth-child(even) 
+{
+  background-color: #f2f2f2;
+}

@@ -1,0 +1,56 @@
+Indicator,Section,Value
+Population,World,7503576762
+Population,Asia,4458423254
+Population,Bangladesh,164669751
+Population,Chars,4243862
+Access to electricity,World,83.63063315
+Access to electricity,Asia,93.37097798
+Access to electricity,Bangladesh,75.92
+Access to electricity,Chars,68.85
+Electric power consumption,World,4251.377515
+Electric power consumption,Asia,4272.969488
+Electric power consumption,Bangladesh,310.3912261
+Electric power consumption,Chars,220
+Coal,World,16.48592101
+Coal,Asia,19.64849936
+Coal,Bangladesh,1.689515514
+Hydro,World,26.82660696
+Hydro,Asia,19.11791266
+Hydro,Bangladesh,0.959143211
+Gas,World,27.0461171
+Gas,Asia,42.2959297
+Gas,Bangladesh,80.70359763
+Nuclear,World,5.001298509
+Nuclear,Asia,1.726346853
+Nuclear,Bangladesh,0
+Oil,World,15.55472111
+Oil,Asia,13.60126787
+Oil,Bangladesh,16.37999695
+Renewable,World,7.114671665
+Renewable,Asia,1.743834189
+Renewable,Bangladesh,0.267746691
+Population affected by extreme weather,World,1.1699047
+Population affected by extreme weather,Asia,1.364374106
+Population affected by extreme weather,Bangladesh,4.584694259
+Internet usage,World,53.45003484
+Internet usage,Asia,56.57961094
+Internet usage,Bangladesh,18.02
+Internet usage,Chars,1.3
+Pollution Mortality,World,0.000922126
+Pollution Mortality,Asia,0.000945085
+Pollution Mortality,Bangladesh,0.00149
+Unsafe water mortality,World,0.000124995
+Unsafe water mortality,Asia,3.88E-05
+Unsafe water mortality,Bangladesh,0.000119
+Water access,World,80.91917925
+Water access,Asia,74.54632165
+Water access,Bangladesh,55.67324671
+Water access,Chars,61.43772158
+Sanitation access,World,68.00766205
+Sanitation access,Asia,73.1982
+Sanitation access,Bangladesh,46.92459323
+Sanitation access,Chars,43.40899772
+Access to clean fuels and technologies for cooking,World,59.3504633
+Access to clean fuels and technologies for cooking,Asia,65.7293
+Access to clean fuels and technologies for cooking,Bangladesh,17.72
+Access to clean fuels and technologies for cooking,Chars,23.56344292
